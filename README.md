@@ -196,7 +196,7 @@ visitor_log_cms/
 #### Step 1: Download and Extract
 ```bash
 # Download the system files
-git clone https://github.com/your-repo/visitor-log-cms.git
+git clone https://github.com/soikot-shahriaar/visitor-log-cms.git
 cd visitor-log-cms
 
 # Or extract from ZIP file
